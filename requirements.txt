@@ -1,0 +1,6 @@
+requests==2.32.3
+requests-cache==1.2.1
+beautifulsoup4==4.12.3
+pandas==2.2.2
+lxml==5.2.2
+playwright==1.45.0

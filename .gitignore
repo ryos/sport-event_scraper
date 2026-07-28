@@ -1,0 +1,10 @@
+.DS_Store
+{scrapers/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+cache/
+output/
